@@ -18,8 +18,8 @@ A directory to find any and all employees worldwide
 
 Select from either Male or Female employees in the search and get returned a list of employees ready to contact, interview, and hire 
 
-![Example Application](https://raw.githubusercontent.com/LouieLover/employee/main/employee/Screen%20Shot%202020-10-31%20at%208.22.00%20AM.png),
-![Example Application](https://raw.githubusercontent.com/LouieLover/employee/main/employee/Screen%20Shot%202020-10-31%20at%208.22.11%20AM.png),
+![Example Application](https://raw.githubusercontent.com/LouieLover/employee/main/Screen%20Shot%202020-10-31%20at%208.22.00%20AM.png),
+![Example Application](https://raw.githubusercontent.com/LouieLover/employee/main/Screen%20Shot%202020-10-31%20at%208.22.11%20AM.png)
 
 
 ## Credits
