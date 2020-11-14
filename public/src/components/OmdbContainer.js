@@ -40,9 +40,9 @@ class OmdbContainer extends Component {
       <Container>
         <Row>
           <Col size="md-8">
-            <Card heading={this.state.data.result || "Search for a Employee"}>
-              {this.state.data.result.length > 0 ? (
-                this.state.data.result
+            <Card heading={this.state.result.data || "Search for a Employee"}>
+              {this.state.result.length > 0 ? (
+                this.state.result
                   .filter((data) => data.gender === this.state.search)
                   .map((user) => (
                     <Employee
